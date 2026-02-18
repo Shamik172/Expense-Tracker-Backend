@@ -16,7 +16,7 @@ app.use(
   cors({
     origin: [
       "http://localhost:5173",
-      "https://expense-tracker-frontend-gules-six.vercel.app"
+      "https://expense-tracker-frontend-ozbz.onrender.com"
     ],
     credentials: true,
   })
